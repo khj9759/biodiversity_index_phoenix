@@ -1,3 +1,7 @@
+```bash
+pip install foobar
+```
+
 Author or creator - Haejin Kim
 Date of publication - December-9-2023
 Title or description - Biodiversity Intactness Index change in Phoenix subdivision
@@ -7,3 +11,16 @@ EDS220 - Working with Environmental Datasets
 Dataset - 
 1) Biodiversity Index in Phoenix City, Arizona
 2) Arizona State Map: Census data - https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
