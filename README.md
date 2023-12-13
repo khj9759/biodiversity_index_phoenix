@@ -3,10 +3,12 @@
 ## Author or creator 
 Haejin Kim
 ## Date of publication
-December-9-2023
+December-12-2023
+
 ## Publisher  
 University of California, Santa Barbara - Bren School
 EDS220 - Working with Environmental Datasets
+
 ## Title or description 
 Biodiversity Intactness Index change in Phoenix subdivision
 
@@ -24,6 +26,6 @@ After analyzing geospatial and STAC datasets, we have generated a map that highl
 - Creating and customizing SpatioTemporal Asset Catalog (STAC) maps
 
 ## Data
-1) Biodiversity Index in Phoenix City, Arizona
+1) Biodiversity Index in Phoenix City, Arizona - STAC maps
 2) Arizona State Map: Census data - https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions
 
